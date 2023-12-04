@@ -7,8 +7,8 @@ Esta aplicación de tareas desarrollada con React Native y Typescript en Expo te
 ## Capturas de pantalla
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./screenshots/snapshot_1.png" width=30%>
-<img src="./screenshots/snapshot_2.png" width=30%>
+<img src="./screenshots/screenshot_1.png" width=30%>
+<img src="./screenshots/screenshot_2.png" width=30%>
 </div>
 
 ## Características
